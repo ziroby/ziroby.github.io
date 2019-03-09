@@ -1,0 +1,8 @@
+title: Ron "Ziroby" Romero's Blog
+description: 
+google_analytics: UA-43593914-1
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
